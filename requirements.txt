@@ -1,0 +1,5 @@
+carla==0.9.13
+matplotlib==3.5.3
+numpy==1.21.6
+opencv_python==4.10.0.84
+scipy==1.7.3
