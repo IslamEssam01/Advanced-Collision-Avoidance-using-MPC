@@ -16,6 +16,7 @@ Ensure the following dependencies are installed:
 
 - Python 3.7
 - Required Python libraries (install using `pip install -r requirements.txt`):
+- Carla 0.9.15
 
 ## Installation
 
